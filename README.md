@@ -1,6 +1,5 @@
 # vue-demo
 
-## Project setup
 ```
 npm install
 ```
