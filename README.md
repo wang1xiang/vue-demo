@@ -32,7 +32,7 @@ GitHub Pages相当于把指定目录放到web服务器上
 个人设置 - Personal access tokens
 
 - ```
-  dc00151ad35fc6f3d827f1eb7aa5a9a916e79760
+  62f13d150743575e8ac922e49d435e11af0401d0
   ```
 
 项目 - Settings - Secrets
